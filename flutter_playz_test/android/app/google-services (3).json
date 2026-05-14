@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022281600399",
+    "project_id": "playztest",
+    "storage_bucket": "playztest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022281600399:android:9f59cd9ba22fbf29e0cffa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_playz_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022281600399-7e7foob5f74cb4fuv2n409ra5ko443e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_playz_test",
+            "certificate_hash": "6f47e9ca9cfeabb798106cef1223c0053b7932b8"
+          }
+        },
+        {
+          "client_id": "1022281600399-0hf83g0so3db8jkcssejmaj8k23u0nql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeP3zXsut8YWKAsrMaRsX21qup-DLwwac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022281600399-0hf83g0so3db8jkcssejmaj8k23u0nql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
